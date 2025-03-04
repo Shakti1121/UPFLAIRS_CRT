@@ -13,4 +13,3 @@ product = Product("Laptop", 1000)
 print(product.discounted_price()) 
 
 
-# Output: 900.0
